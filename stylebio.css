@@ -1,0 +1,78 @@
+* {
+  font-weight: 100;
+}
+
+body{
+  text-align: left;
+  background-color: #C2D2C4;
+  font-family: 'Sigmar One', cursive;
+  color: #0A384A;
+}
+
+#Title{
+  text-align: center;
+}
+
+.row{
+  width: 100%;
+  height: 400px;
+}
+
+.col{
+  width:25%;
+  height:100%;
+  display: inline-block;
+  float: left;
+  border-bottom: solid;
+  border-color: #FFF6E5;
+}
+#TitleP{
+  text-align: center;
+}
+
+#picture{
+  width:21%
+}
+
+#ab_me{
+  width: 78%;
+}
+#projectsinfo{
+  text-align: center;
+}
+
+button {
+  border-radius: 2px;
+  border: none;
+  color: black;
+  background-color: white;
+  height: 50px;
+  width: 200px;
+  font-size: 16px;
+}
+
+#python{
+  margin-bottom: 50px;
+}
+
+#scratch{
+  margin-bottom: 50px;
+}
+
+#TurtleProject{
+  margin-top: 50px;
+}
+.info{
+  margin-bottom: 80px;
+}
+
+
+
+
+
+
+ /* <marquee> TEXT</marquee>
+<img src= "">
+<a href="" target="_blank">TEXT</a>
+background-image: url();
+ID is a # and class is a .  */
